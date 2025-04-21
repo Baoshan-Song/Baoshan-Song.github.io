@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year Ph.D student in [the Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University. I am very fortunate to be advised by Dr. Li-Ta Hsu and Dr. Weisong Wen. 
+Aloha! I am currently a second year Ph.D student in [the Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University. I am very fortunate to be advised by Dr. Li-Ta Hsu and Dr. Weisong Wen. I received the matser's degree in Guidance, Navigation and Control in 2023 and the bachelor’s degree in Navigation Engineering in 2020, both from Wuhan University, China.
 
 My research interests include convex optimization, factor graph optimization (FGO) and their application on multi-sensor fusion navigation in urban areas. 
 
