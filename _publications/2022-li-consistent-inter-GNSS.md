@@ -1,9 +1,8 @@
-
 ---
 title: "Consistent Localization for Autonomous Robots With Inter-Vehicle GNSS Information Fusion"
 authors: "Xingxing Li, Baoshan Song, Zhiheng Shen, Yuxuan Zhou, Hongbo Lyu, Zeyang Qin"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about enhancing collaborative localization by GNSS-PPP.'
 date: 2022-09-30
