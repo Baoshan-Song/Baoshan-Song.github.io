@@ -12,7 +12,7 @@ I am currently a second year Ph.D student in [the Intelligent Positioning and Na
 
 My research interests include convex optimization, factor graph optimization (FGO) and their application on multi-sensor fusion navigation in urban areas. 
 
-For more details, please refer to my [CV](../assets/cv.pdf).
+For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
 
 ---
 
