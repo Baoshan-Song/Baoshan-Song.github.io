@@ -25,7 +25,7 @@ For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
   </tr>
   <tr>
     <td><strong>May 4, 2024</strong></td>
-    <td>Present at <i>European Navigation Conference 2024</i> <a href="https://example.com/workshop">[slide]</a>.</td>
+    <td>Presented at <i>European Navigation Conference 2024</i> <a href="https://example.com/workshop">[slide]</a>.</td>
   </tr>
 </table>
 
