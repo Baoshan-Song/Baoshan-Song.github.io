@@ -11,6 +11,8 @@ For a complete list of my publications, please find my articles on <a href="{{si
 {% endif %}
 
 {% include base_path %}
+
+<!--
 {% assign show_preprints = false %}
 {% if show_preprints %}
 Preprints
@@ -49,7 +51,7 @@ Conference Papers
   {% endif %}
 {% endfor %}
 
-<!-- Theses
+Theses
 ======
 {% for post in site.publications reversed %}
   {% if post.type contains "thesis" %}
@@ -62,7 +64,7 @@ Conference Papers
 
 
 
-<!-- New style rendering if publication categories are defined 
+<!-- New style rendering if publication categories are defined  -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -81,7 +83,7 @@ Conference Papers
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} -->
+{% endif %}
 
 
 
