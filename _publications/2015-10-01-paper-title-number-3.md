@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about a certifibly optimal LEO orbit determination method.'
-date: 2015-10-01
+date: 2025-05-01
 venue: 'IEEE PLANS'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
