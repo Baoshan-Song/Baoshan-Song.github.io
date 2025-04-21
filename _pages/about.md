@@ -14,4 +14,3 @@ I am very fortunate to be advised by Dr. Li-Ta Hsu and Dr. Weisong Wen.
 
 For more details, please refer to my [CV](../assets/cv.pdf).
 
-[Email](mailto:baoshan.song@connect.polyu.hk)/[Github](https://github.com/Baoshan-Song)
