@@ -16,33 +16,30 @@ For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
 
 ---
 
-## News
+## Selected News
 
 <table>
   <tr>
     <td><strong>May 1, 2025</strong></td>
-    <td>Presented at ION PLANS 2025 <a href="https://example.com/workshop">[slide]</a>.</td>
+    <td>Presented at <i>ION PLANS 2025</i> <a href="https://example.com/workshop">[slide]</a>.</td>
   </tr>
   <tr>
     <td><strong>May 4, 2024</strong></td>
-    <td>Present at European Navigation Conference 2024 <a href="https://example.com/workshop">[slide]</a>.</td>
+    <td>Present at <i>European Navigation Conference 2024</i> <a href="https://example.com/workshop">[slide]</a>.</td>
   </tr>
 </table>
 
-## Awards & Recongnition
+## Selected Awards & Honors
 
 <table>
   <tr>
-    <td><strong>2025-04-20</strong></td>
-    <td>Presented at the <i>LEO-PNT Workshop</i> in Hong Kong.</td>
+    <td><strong>2020</strong></td>
+    <td> Wuhan University Outstanding undergraduate graduate </td>
   </tr>
   <tr>
-    <td><strong>2025-03-10</strong></td>
-    <td>Published a new paper on FGO-based LEO positioning in urban canyons.</td>
+    <td><strong>2019</strong></td>
+    <td>Wuhan University Research Postgraduate Recommendation (the only one)</td>
   </tr>
-  <tr>
-    <td><strong>2024-12-01</strong></td>
-    <td>Visited McMaster University as a research scholar.</td>
-  </tr>
+
 </table>
 
