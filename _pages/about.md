@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Aloha! I am currently a second year Ph.D student in [the Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University. I am very fortunate to be advised by Dr. Li-Ta Hsu and Dr. Weisong Wen. I received the matser's degree in Guidance, Navigation and Control in 2023 and the bachelor’s degree in Navigation Engineering in 2020, both from Wuhan University, China.
+Aloha! I am currently a Ph.D Candidate in [the IPNL lab](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University. I am very fortunate to be advised by Dr. Li-Ta Hsu and Dr. Weisong Wen. I am also a visiting student in [the ARCO lab](https://arcolab.mcmaster.ca/?page_id=25), advised by Dr. Matthew Giamou. I received the matser's degree in Guidance, Navigation and Control in 2023 and the bachelor’s degree in Navigation Engineering in 2020, both from Wuhan University, China.
 
 My research interests include convex optimization (including semidefinite programming (SDP)), factor graph optimization (FGO) and their application on multi-sensor fusion navigation in urban areas. Both SDP and FGO are popular in robotic fields but lack more applications to navigation, such as satellite navigation in urban canyons. I am currently working on a certifiably optimal multi-sensor integrated navigation system. If you are interested in my research, please don't hesitate to contact with me. I am planning to construct a certifiable estimator and apply it to navigation for robots.
 
