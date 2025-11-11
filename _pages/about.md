@@ -20,6 +20,10 @@ For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
 
 <table>
   <tr>
+    <td><strong>Nov 10, 2025</strong></td>
+    <td>Gived a seminar talk at <i>McMaster University CAS department</i> <a href="https://www.youtube.com/watch?v=YbkHmWe-0d0">[video]</a>.</td>
+  </tr>
+  <tr>
     <td><strong>May 1, 2025</strong></td>
     <td>Presented at <i>ION PLANS 2025</i> <a href="https://example.com/workshop">[slide]</a>.</td>
   </tr>
