@@ -23,12 +23,13 @@ I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation L
 
 ## Research Interests
 
-My research focuses on **convex optimization** (including semidefinite programming), **factor graph optimization (FGO)**, and their applications to multi-sensor fusion navigation systems. Key research areas include:
+My research interests focus on three interconnected areas:
 
-- Certifiably optimal pose graph optimization for SLAM
-- Tightly-coupled multi-sensor fusion (GNSS/INS/odometry/LiDAR)
-- Autonomous navigation in challenging environments
-- Convex relaxation techniques for robotics and navigation
+1. **Robust Navigation (Past):** Address robust navigation problems with complementary sensors (GNSS/IMU/Odometry/Camera/LiDAR/RADAR) through tightly-coupled fusion techniques.
+
+2. **Trust-worthy Optimization (Present):** Design certifiably optimal, efficient, and robust estimators. The techniques employed include Kalman filtering, factor graph optimization (FGO), convex optimization, and deep learning.
+
+3. **Certifiable Navigation (Future):** Relax FGO into convex problems and provide globally optimal certificates for navigation tasks including localization, mapping, planning, and control.
 
 ---
 
