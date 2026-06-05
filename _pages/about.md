@@ -15,9 +15,7 @@ I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation L
 **Education:**
 - Ph.D. in Navigation and Positioning, The Hong Kong Polytechnic University (2023-present, in writing phase)
 - M.Sc. in Engineering, Wuhan University (2020-2023) - Guidance, Navigation and Control
-  - Lab: [GREAT Lab](https://igmas.sgg.pub:8006/home), Supervisor: Dr. Xingxing Li
 - B.C.s in Engineering, Wuhan University (2016-2020) - Navigation Engineering
-  - Lab: [GREAT Lab](https://igmas.sgg.pub:8006/home), Supervisor: Dr. Xingxing Li
 
 ---
 
@@ -25,11 +23,11 @@ I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation L
 
 My research interests focus on three interconnected areas:
 
-1. **Robust Navigation (Past):** Address robust navigation problems with complementary sensors (GNSS/IMU/Odometry/Camera/LiDAR/RADAR) through tightly-coupled fusion techniques.
+1. **Robust Navigation:** Address robust navigation problems with complementary sensors (GNSS/IMU/Odometry/Camera/LiDAR/RADAR) through tightly-coupled fusion techniques.
 
-2. **Trust-worthy Optimization (Present):** Design certifiably optimal, efficient, and robust estimators. The techniques employed include Kalman filtering, factor graph optimization (FGO), convex optimization, and deep learning.
+2. **Trust-worthy Optimization:** Design certifiably optimal, efficient, and robust estimators. The techniques employed include Kalman filtering, factor graph optimization (FGO), convex optimization, and deep learning.
 
-3. **Certifiable Navigation (Future):** Relax FGO into convex problems and provide globally optimal certificates for navigation tasks including localization, mapping, planning, and control.
+3. **Certifiable Navigation:** Relax FGO into convex problems and provide globally optimal certificates for navigation tasks including localization, mapping, planning, and control.
 
 ---
 
