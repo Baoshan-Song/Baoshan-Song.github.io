@@ -40,8 +40,8 @@ My research interests focus on three interconnected areas:
   - Design teaching materials and conduct PID control experiments using ROS
 
 **Student Supervision:**
-- **M.Sc. Student:** Minghe Han (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
-- **B.Sc. Student:** Yuxuan Tan (Wuhan University, 2021) - PPP/INS/Vision tightly coupled integration navigation
+- **M.Sc. Student:** M. Han (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
+- **B.Sc. Student:** Y. Tan (WHU, 2021) - PPP/INS/Vision tightly coupled integration navigation
 
 ---
 
