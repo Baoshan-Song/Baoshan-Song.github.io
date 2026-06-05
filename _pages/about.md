@@ -47,7 +47,7 @@ My research interests focus on three interconnected areas:
 
 ## Service
 
-**Reviewer for:** NAVIGATION, IEEE Transactions on Aerospace and Electronic Systems (TAES), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Intelligent and Connected Vehicles (TIE), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE Intelligent Vehicles Symposium (IV)
+**Reviewer for:** NAVIGATION, IEEE Transactions on Aerospace and Electronic Systems (TAES), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Electronics (TIE), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE Intelligent Vehicles Symposium (IV)
 
 ---
 
