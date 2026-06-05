@@ -23,11 +23,32 @@ I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation L
 
 My research interests focus on three interconnected areas:
 
-1. **Robust Navigation:** Address robust navigation problems with complementary sensors (GNSS/IMU/Odometry/Camera/LiDAR/RADAR) through tightly-coupled fusion techniques.
+1. **Robust Navigation:** Address robust navigation problems with complementary sensors (GNSS/IMU/Odometer/Camera/LiDAR/RADAR) through tightly-coupled fusion techniques.
 
 2. **Trust-worthy Optimization:** Design certifiably optimal, efficient, and robust estimators. The techniques employed include Kalman filtering, factor graph optimization (FGO), convex optimization, and deep learning.
 
 3. **Certifiable Navigation:** Relax FGO into convex problems and provide globally optimal certificates for navigation tasks including localization, mapping, planning, and control.
+
+---
+
+
+## Selected Awards & Honors
+
+| Year | Award |
+|:-----|:------|
+| 2020 | Wuhan University Outstanding Undergraduate Graduate |
+| 2019 | Wuhan University Research Postgraduate Recommendation (the only one) |
+| 2019 | First Prize in Wuhan University Surveying Competition |
+| 2018-2019 | Wuhan University Outstanding Student |
+| 2017-2018 | National Encouragement Scholarship |
+| 2017 | Wuhan University Merit Student |
+
+---
+
+
+## Software & Open Source
+
+I actively develop open-source software related to robotics and navigation. Visit my **[GitHub profile](https://github.com/Baoshan-Song)** for latest projects and code repositories.
 
 ---
 
@@ -45,17 +66,7 @@ My research interests focus on three interconnected areas:
 
 ---
 
-## Service
 
-**Reviewer for:** NAVIGATION, IEEE Transactions on Aerospace and Electronic Systems (TAES), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Electronics (TIE), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE Intelligent Vehicles Symposium (IV)
-
----
-
-## Software & Open Source
-
-I actively develop open-source software related to robotics and navigation. Visit my **[GitHub profile](https://github.com/Baoshan-Song)** for latest projects and code repositories.
-
----
 
 ## Selected News
 
@@ -71,17 +82,11 @@ I actively develop open-source software related to robotics and navigation. Visi
 
 ---
 
-## Selected Awards & Honors
+## Service
 
-| Year | Award |
-|:-----|:------|
-| 2020 | Wuhan University Outstanding Undergraduate Graduate |
-| 2019 | Wuhan University Research Postgraduate Recommendation (the only one) |
-| 2019 | First Prize in Wuhan University Surveying Competition |
-| 2018-2019 | Wuhan University Outstanding Student |
-| 2017-2018 | National Encouragement Scholarship |
-| 2017 | Wuhan University Merit Student |
+**Reviewer for:** NAVIGATION, IEEE Transactions on Aerospace and Electronic Systems (TAES), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Electronics (TIE), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE Intelligent Vehicles Symposium (IV)
 
 ---
+
 
 For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
