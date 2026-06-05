@@ -10,12 +10,14 @@ redirect_from:
 
 ## Personal Information
 
-I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation Lab (IPNL)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University, advised by **Dr. Li-Ta Hsu** and **Dr. Weisong Wen**. I was also a visiting student in [the ARCO Lab](https://arcolab.mcmaster.ca/?page_id=25) at McMaster University, advised by **Dr. Matthew Giamou**.
+I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation Lab (IPNL)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University, advised by **Dr. Li-Ta Hsu** and **Dr. Weisong Wen**. I was also a visiting student in [the ARCO Lab](https://arcolab.mcmaster.ca/?page_id=25) at McMaster University, advised by **Dr. Matthew Giamou**. I received my master's and bachelor's degrees from [the GREAT Lab](https://igmas.sgg.pub:8006/home), Wuhan University, advised by **Dr. Xingxing Li**.
 
 **Education:**
 - Ph.D. in Navigation and Positioning, The Hong Kong Polytechnic University (2023-present, in writing phase)
 - M.Sc. in Engineering, Wuhan University (2020-2023) - Guidance, Navigation and Control
+  - Lab: [GREAT Lab](https://igmas.sgg.pub:8006/home), Supervisor: Dr. Xingxing Li
 - B.C.s in Engineering, Wuhan University (2016-2020) - Navigation Engineering
+  - Lab: [GREAT Lab](https://igmas.sgg.pub:8006/home), Supervisor: Dr. Xingxing Li
 
 ---
 
