@@ -1,7 +1,7 @@
 ---
 title: "Consistent Localization for Autonomous Robots with Inter-vehicle GNSS Information Fusion"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2022-li-consistent-inter-gnss
 excerpt: 'This paper proposes a consistent localization method for autonomous robots through inter-vehicle GNSS information fusion.'
 date: 2022-01-01

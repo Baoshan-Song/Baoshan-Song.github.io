@@ -1,7 +1,7 @@
 ---
 title: "A High-Precision Vehicle Navigation System Based on Tightly Coupled PPP-RTK/INS/Odometer Integration"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2022-li-high-precision-vehicle-navigation
 excerpt: 'This paper presents a tightly coupled integration of PPP-RTK/INS/Odometer for high-precision vehicle navigation.'
 date: 2022-01-01

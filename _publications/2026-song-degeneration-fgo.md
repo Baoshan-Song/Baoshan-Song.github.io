@@ -1,7 +1,7 @@
 ---
 title: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2026-song-degeneration-fgo
 excerpt: 'This paper explores the theoretical relationship between Factor Graph Optimization and Extended Kalman Filtering.'
 date: 2026-01-01

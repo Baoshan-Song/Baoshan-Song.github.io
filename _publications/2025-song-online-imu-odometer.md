@@ -1,7 +1,7 @@
 ---
 title: "Online IMU-Odometer Calibration using GNSS Measurements for Unmanned Ground Vehicle Localization"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-song-online-imu-odometer
 excerpt: 'This paper proposes an online IMU-Odometer calibration method using GNSS measurements for accurate UGV localization.'
 date: 2025-01-01

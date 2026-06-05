@@ -1,7 +1,7 @@
 ---
 title: "Certifiably Optimal Doppler Positioning With Opportunistic LEO satellites"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-song-certifiably-optimal-doppler
 excerpt: 'This paper presents a certifiably optimal approach to Doppler positioning using opportunistic LEO satellites.'
 date: 2025-01-01
