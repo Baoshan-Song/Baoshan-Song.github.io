@@ -1,67 +1,135 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Baoshan Song",
+    "email": "baoshan.song@connect.polyu.hk",
+    "phone": "(+852) 95725691",
+    "website": "https://baoshan-song.github.io",
+    "summary": "PhD student at The Hong Kong Polytechnic University, working on factor graph optimization, convex optimization and their applications to SLAM and autonomous navigation.",
     "location": {
-      "address": "",
+      "address": "PolyU PQ502",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "baoshan-song-749465189",
+        "url": "https://www.linkedin.com/in/baoshan-song-749465189/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Baoshan-Song",
+        "url": "https://github.com/Baoshan-Song"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "The Hong Kong Polytechnic University",
+      "position": "Teaching Assistant",
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "summary": "Postgraduate Course: Robust Control Technology In Low-Altitude Aerial Vehicle",
+      "highlights": [
+        "Teach ORB-SLAM3 coding tutorial",
+        "Teach 3D Gaussian Splatting course"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "The Hong Kong Polytechnic University",
+      "position": "Teaching Assistant",
+      "startDate": "2023-01-01",
+      "endDate": "2024-12-31",
+      "summary": "Undergraduate Course: Dynamic systems and control",
+      "highlights": [
+        "Design teaching materials",
+        "Teach PID control experiments using ROS"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "Hangzhou Shenhao Technology Co.",
+      "position": "Part-time Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Develop a simulated rail track irregularity measuring system using tactical IMU",
+      "highlights": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "education": [
+    {
+      "institution": "The Hong Kong Polytechnic University",
+      "area": "Ph.D. in Navigation and Positioning",
+      "studyType": "Ph.D.",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "gpa": null,
+      "courses": [],
+      "summary": "Thesis: Certifiable Multi-Sensor Integrated Navigation Based on Factor Graph Optimization for Autonomous Ground Vehicles. Supervisors: Dr. Li-Ta Hsu and Dr. Weisong Wen. Status: In the writing phase."
+    },
+    {
+      "institution": "McMaster University",
+      "area": "Visiting Ph.D. Student",
+      "studyType": "Visiting",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "gpa": null,
+      "courses": [],
+      "summary": "Project: Certifiable Multi-Camera Hand-Eye Calibration. Supervisor: Dr. Matthew Giamou."
+    },
+    {
+      "institution": "Wuhan University",
+      "area": "M.Sc. in Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
+      "gpa": null,
+      "courses": [],
+      "summary": "Thesis: Multi-Robot Decentralized Mapping Based on Manifold Optimization. Supervisors: Dr. Xingxing Li and Dr. Yun Wu. Graduation grade: Very Good."
+    },
+    {
+      "institution": "Wuhan University",
+      "area": "B.C.s in Engineering",
+      "studyType": "B.C.s",
+      "startDate": "2016-01-01",
+      "endDate": "2020-12-31",
+      "gpa": null,
+      "courses": [],
+      "summary": "Graduation project: Real-time GNSS/INS loosely-coupled localization system. Supervisor: Dr. Xingxing Li. Graduation grade: Distinguished."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": ["C/C++", "MATLAB", "Python", "Android"]
+    },
+    {
+      "name": "Libraries and Tools",
+      "level": "Proficient",
+      "keywords": ["ROS", "Qt", "OpenCV", "LaTeX", "SOLIDWORKs"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Proficient",
+      "keywords": ["Windows", "Mac", "Linux"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Cantonese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Secondary level-A"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [

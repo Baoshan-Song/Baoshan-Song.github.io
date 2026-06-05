@@ -20,6 +20,22 @@ For more details, please refer to my [CV](../assets/SBS_Curriculum_Vitae.pdf).
 
 <table>
   <tr>
+    <td><strong>Jun 5, 2026</strong></td>
+    <td>Spotlight talk at <i>ICRA Robot Meets Ranging Workshop</i> <a href="https://robotmeetsranging.tech/">[@Vienna, Austria]</a> on "A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization" <a href="../files/2026-song-icra-workshop-lidar-slam-slides.pdf">[slide]</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>Jun 1, 2026</strong></td>
+    <td>Paper accepted at <i>Nature Portfolio journal Wireless Technology</i>: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering".</td>
+  </tr>
+  <tr>
+    <td><strong>Apr 29, 2026</strong></td>
+    <td>Paper accepted at <i>IEEE Robotics and Automation Letters</i>: "Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality".</td>
+  </tr>
+  <tr>
+    <td><strong>Jan 1, 2026</strong></td>
+    <td>Finished visiting at <i>McMaster University ARCO Lab</i>. Special thanks to Dr. Matthew Giamou for the great hosting and mentorship.</td>
+  </tr>
+  <tr>
     <td><strong>Nov 10, 2025</strong></td>
     <td>Gived a seminar talk at <i>McMaster University CAS department</i> <a href="https://www.youtube.com/watch?v=YbkHmWe-0d0">[video]</a>.</td>
   </tr>
