@@ -66,8 +66,8 @@ I actively develop open-source software related to robotics and navigation. Visi
 | **Apr 29, 2026** | Paper accepted at *IEEE Robotics and Automation Letters*: "Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality" |
 | **Jan 1, 2026** | Finished visiting at *McMaster University ARCO Lab*. Special thanks to Dr. Matthew Giamou for the great hosting and mentorship |
 | **Nov 10, 2025** | Seminar talk at *McMaster University CAS department* [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
-| **May 1, 2025** | Presented at *IEEE/ION PLANS 2025* |
-| **May 4, 2024** | Presented at *European Navigation Conference 2024* |
+| **May 1, 2025** | Presented at *IEEE/ION PLANS 2025* [[slide](../files/2025-plans.pdf)] |
+| **May 4, 2024** | Presented at *European Navigation Conference 2024* [[slide](../files/2024-enc.pdf)]|
 
 ---
 
