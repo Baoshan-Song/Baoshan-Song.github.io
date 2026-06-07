@@ -10,7 +10,7 @@ redirect_from:
 
 ## Personal Information
 
-I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation Lab (IPNL)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University, advised by **Dr. Li-Ta Hsu** and **Dr. Weisong Wen**. I was also a visiting student in [the ARCO Lab](https://arcolab.mcmaster.ca/?page_id=25) at McMaster University, advised by **Dr. Matthew Giamou**. I received my master's and bachelor's degrees from [the GREAT Lab](https://igmas.sgg.pub:8006/home), Wuhan University, advised by **Dr. Xingxing Li**.
+Aloha! I am currently a Ph.D Candidate in [the Intelligent Positioning and Navigation Lab (IPNL)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html), The Hong Kong Polytechnic University, advised by **Dr. Li-Ta Hsu** and **Dr. Weisong Wen**. I was also a visiting student in [the ARCO Lab](https://arcolab.mcmaster.ca/?page_id=25) at McMaster University, advised by **Dr. Matthew Giamou**. I received my master's and bachelor's degrees from [the GREAT Lab](https://igmas.sgg.pub:8006/home), Wuhan University, advised by **Dr. Xingxing Li**.
 
 **Education:**
 - Ph.D. in Navigation and Positioning, The Hong Kong Polytechnic University (2023-present, in writing phase)
@@ -39,30 +39,6 @@ My research interests focus on three interconnected areas:
 | 2020 | Wuhan University Outstanding Undergraduate Graduate |
 | 2019 | Wuhan University Research Postgraduate Recommendation (the only one) |
 | 2019 | First Prize in Wuhan University Surveying Competition |
-| 2018-2019 | Wuhan University Outstanding Student |
-| 2017-2018 | National Encouragement Scholarship |
-| 2017 | Wuhan University Merit Student |
-
----
-
-
-## Software & Open Source
-
-I actively develop open-source software related to robotics and navigation. Visit my **[GitHub profile](https://github.com/Baoshan-Song)** for latest projects and code repositories.
-
----
-
-## Teaching & Mentoring
-
-**Teaching Assistant:**
-- 2025-2026: Robust Control Technology in Low-Altitude Aerial Vehicle (Postgraduate)
-  - Teach ORB-SLAM3 coding tutorial and 3D Gaussian Splatting
-- 2023-2024: Dynamic Systems and Control (Undergraduate)
-  - Design teaching materials and conduct PID control experiments using ROS
-
-**Student Supervision:**
-- **M.Sc. Student:** M. H. (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
-- **B.Sc. Student:** Y. T. (WHU, 2021) - PPP/INS/Vision tightly coupled integration navigation
 
 ---
 
@@ -82,9 +58,47 @@ I actively develop open-source software related to robotics and navigation. Visi
 
 ---
 
+
+
+## Invited Talks
+
+| Date | Talks |
+|:-----|:-----|
+| **2025** | *Honor Co. Workshop* [@Hong Kong SAR, China]" [[slide](../files/2025-honor.pdf)] |
+| **2025** | *McMaster University* [@Hamilton, Canada]  [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
+
+---
+
+
+
+
+
+## Teaching & Mentoring
+
+**Teaching Assistant:**
+- 2025-2026: AAE5303 Robust Control Technology in Low-Altitude Aerial Vehicle (Postgraduate)
+  - Teach ORB-SLAM3 coding tutorial and 3D Gaussian Splatting
+- 2023-2024: AAE3004 Dynamic Systems and Control (Undergraduate)
+  - Design teaching materials and conduct PID control experiments using ROS
+
+**Student Supervision:**
+- **M.Sc. Student:** M. H. (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
+- **B.Sc. Student:** Y. T. (WHU, 2021) - PPP/INS/Vision tightly coupled integration navigation
+
+---
+
+
+
 ## Service
 
-**Reviewer for:** NAVIGATION, IEEE Transactions on Aerospace and Electronic Systems (TAES), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Electronics (TIE), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE Intelligent Vehicles Symposium (IV)
+**Journal Reviewer:** NAVIGATION, TAES, TVT, TIE
+**Conference Reviewer:** ITSC, IV
+
+---
+
+## Software & Open Source
+
+I actively develop open-source software related to robotics and navigation. Visit my **[GitHub profile](https://github.com/Baoshan-Song)** for latest projects and code repositories.
 
 ---
 
