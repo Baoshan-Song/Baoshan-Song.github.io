@@ -61,8 +61,8 @@ I actively develop open-source software related to robotics and navigation. Visi
   - Design teaching materials and conduct PID control experiments using ROS
 
 **Student Supervision:**
-- **M.Sc. Student:** M. Han (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
-- **B.Sc. Student:** Y. Tan (WHU, 2021) - PPP/INS/Vision tightly coupled integration navigation
+- **M.Sc. Student:** M. H. (PolyU, 2026) - Certifiably optimal semantic LiDAR mapping
+- **B.Sc. Student:** Y. T. (WHU, 2021) - PPP/INS/Vision tightly coupled integration navigation
 
 ---
 
