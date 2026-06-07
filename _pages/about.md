@@ -64,7 +64,7 @@ My research interests focus on three interconnected areas:
 
 | Date | Talks |
 |:-----|:-----|
-| **2025** | *Honor Co. Workshop* [@Hong Kong SAR, China]" [[slide](../files/2025-honor.pdf)] |
+| **2025** | *PolyU Workshop* [@Hong Kong SAR, China] [[slide](../files/2025-polyu.pdf)] |
 | **2025** | *McMaster University* [@Hamilton, Canada]  [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
 
 ---
