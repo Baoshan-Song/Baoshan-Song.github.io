@@ -92,7 +92,7 @@ My research interests focus on three interconnected areas:
 
 ## Service
 
-- **Journal Reviewer:** NAVIGATION, TAES, TVT, TIE
+- **Journal Reviewer:** NAVIGATION, TITS, TAES, TVT, TIE
 - **Conference Reviewer:** ITSC, IV
 
 ---
