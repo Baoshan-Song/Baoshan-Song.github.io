@@ -48,9 +48,10 @@ My research interests focus on three interconnected areas:
 
 | Date | News |
 |:-----|:-----|
+| **Jun 17, 2026** | Paper accepted at *IEEE T-ITS*: "Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization" |
 | **Jun 5, 2026** | Spotlight talk at *ICRA Robot Meets Ranging Workshop* [@Vienna, Austria] on "A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization" [[slide](../files/2026-song-icra-workshop-lidar-slam-slides.pdf)] |
 | **Jun 1, 2026** | Paper accepted at *Nature Portfolio journal Wireless Technology*: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering" |
-| **Apr 29, 2026** | Paper accepted at *IEEE Robotics and Automation Letters*: "Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality" |
+| **Apr 29, 2026** | Paper accepted at *IEEE RA-L*: "Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality" |
 | **Jan 1, 2026** | Finished visiting at *McMaster University ARCO Lab*. Special thanks to Dr. Matthew Giamou for the great hosting and mentorship |
 | **Nov 10, 2025** | Seminar talk at *McMaster University CAS department* [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
 | **May 1, 2025** | Presented at *IEEE/ION PLANS 2025* [[slide](../files/2025-plans.pdf)] |
