@@ -48,7 +48,7 @@ My research interests focus on three interconnected areas:
 
 | Date | News |
 |:-----|:-----|
-| **Oct 2026** | Invited talk at *IEEE CSS TCSP Rising Star Symposium* on certifiable navigation and state estimation |
+| **Oct 2026** | Invited talk at [*IEEE CSS TCSP Rising Star Symposium* on certifiable navigation and state estimation (https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] |
 | **Jun 17, 2026** | Paper accepted at *IEEE T-ITS*: "Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization" |
 | **Jun 5, 2026** | Spotlight talk at *ICRA Robot Meets Ranging Workshop* [@Vienna, Austria] on "A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization" [[slide](../files/2026-song-icra-workshop-lidar-slam-slides.pdf)] |
 | **Jun 1, 2026** | Paper accepted at *Nature Portfolio journal Wireless Technology*: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering" |
@@ -66,7 +66,7 @@ My research interests focus on three interconnected areas:
 
 | Date | Talks |
 |:-----|:-----|
-| **Oct 2026** | *IEEE CSS TCSP Rising Star Symposium* (Virtual Presentation) |
+| **Oct 2026** | *IEEE CSS TCSP Rising Star Symposium* [[Virtual Presentation](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] |
 | **2025** | *PolyU Workshop* [@Hong Kong SAR, China] [[slide](../files/2025-polyu.pdf)] |
 | **2025** | *McMaster University* [@Hamilton, Canada]  [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
 
