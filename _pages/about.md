@@ -48,7 +48,7 @@ My research interests focus on three interconnected areas:
 
 | Date | News |
 |:-----|:-----|
-| **Oct 2026** | Invited talk at [[*IEEE CSS TCSP Rising Star Symposium*] on certifiable state estimation (https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] |
+| **Oct 2026** | Invited talk at [[*IEEE CSS TCSP Rising Star Symposium*] (https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] on certifiable state estimation |
 | **Jun 17, 2026** | Paper accepted at *IEEE T-ITS*: "Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization" |
 | **Jun 5, 2026** | Spotlight talk at *ICRA Robot Meets Ranging Workshop* [@Vienna, Austria] on "A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization" [[slide](../files/2026-song-icra-workshop-lidar-slam-slides.pdf)] |
 | **Jun 1, 2026** | Paper accepted at *Nature Portfolio journal Wireless Technology*: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering" |
