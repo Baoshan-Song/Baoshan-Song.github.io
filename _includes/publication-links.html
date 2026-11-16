@@ -1,0 +1,9 @@
+{% assign paper = include.paper %}
+<div class="resource-links">
+  {% if paper.paperurl and paper.paperurl != '' %}<a href="{{ paper.paperurl }}">{% if paper.category == 'preprints' %}Preprint{% else %}Paper{% endif %}</a>{% endif %}
+  {% if paper.arxivurl and paper.arxivurl != '' %}<a href="{{ paper.arxivurl }}">arXiv</a>{% endif %}
+  {% if paper.codeurl and paper.codeurl != '' %}<a href="{{ paper.codeurl }}">Code</a>{% endif %}
+  {% if paper.dataseturl and paper.dataseturl != '' %}<a href="{{ paper.dataseturl }}">Dataset</a>{% endif %}
+  {% if paper.videourl and paper.videourl != '' %}<a href="{{ paper.videourl }}">Video</a>{% endif %}
+  {% if paper.slidesurl and paper.slidesurl != '' %}<a href="{{ paper.slidesurl | relative_url }}">Slides</a>{% endif %}
+</div>

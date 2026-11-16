@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Videos"
+permalink: /videos/
+author_profile: true
+research_resources: true
+redirect_from:
+  - /video/
+---
+
+<p>Short tutorials, research talks, and project demonstrations in robotics and navigation. <a href="https://www.youtube.com/@BaoshanSong">Visit my YouTube channel</a>.</p>
+<nav class="resource-nav" aria-label="Video categories" data-video-nav>
+  <a href="#tutorials">5-Minute Tutorials</a>
+  <a href="#talks">Research Talks</a>
+  <a href="#demos">Project Demos &amp; Tools</a>
+</nav>
+{% assign categories = "tutorials,talks,demos" | split: "," %}
+{% for category in categories %}
+<section id="{{ category }}" data-video-section aria-labelledby="heading-{{ category }}">
+  <h2 id="heading-{{ category }}">{% case category %}{% when 'tutorials' %}5-Minute Tutorials{% when 'talks' %}Research Talks{% when 'demos' %}Project Demos &amp; Tools{% endcase %}</h2>
+  {% if category == 'tutorials' %}<p>One idea at a time: visual explanations for students, engineers, and fellow researchers.</p>{% endif %}
+  <div class="resource-grid">
+    {% assign videos = site.data.videos | where: "category", category %}
+    {% for video in videos %}{% include video-card.html video=video %}{% endfor %}
+  </div>
+</section>
+{% endfor %}
+<script src="{{ '/assets/js/research-pages.js' | relative_url }}" defer></script>

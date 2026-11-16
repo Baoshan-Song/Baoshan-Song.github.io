@@ -1,0 +1,40 @@
+# Published videos verified on YouTube, 2026-11-16.
+- id: g1VPQWO5Qo4
+  category: tutorials
+  title: "Extended Kalman Filter in 5 Minutes: How We Track a Ball with Noisy Radar"
+  duration: "4:51"
+  description: "An intuitive introduction to the extended Kalman filter through tracking a ball with noisy radar measurements."
+- id: 9S0o3tLoKyo
+  category: tutorials
+  title: "Signed Distance Fields in 5 Minutes: How Continuous Distance Fields Carve Safe Path"
+  duration: "4:59"
+  description: "Explore signed distance fields and how distance to surfaces helps robots plan safe paths."
+- id: "-sIFiqfqKu4"
+  category: tutorials
+  title: "3D Gaussian Splatting in 5 Minutes: How Gaussian Snowballs Recreate Reality"
+  duration: "5:00"
+  description: "A visual introduction to reconstructing and rendering scenes with 3D Gaussian splats."
+- id: fVrW5whgSvk
+  category: talks
+  title: "Towards Certifiable Metric State Estimation for Autonomous Robots"
+  duration: "37:44"
+  context: "IEEE CSS TCSP Rising Star Symposium · October 2026"
+  description: "A research talk on reliable metric state estimation, global optimality certification, and observability in autonomous robotics."
+- id: YbkHmWe-0d0
+  category: talks
+  title: "Robust and Certifiable State Estimation: From EKF, FGO to SDP; Applications to GNSS-based Localization"
+  duration: "37:00"
+  context: "McMaster University CAS seminar · November 2025"
+  description: "From Kalman filtering and factor graphs to semidefinite programming for robust and certifiable GNSS-based localization."
+- id: _W2NP7gwf7s
+  category: demos
+  title: "KFV v.s FGO Comparison Toolbox tutorial"
+  duration: "6:08"
+  description: "A walkthrough of the comparison toolbox for Kalman filter variants and factor graph optimization."
+  code: "https://github.com/Baoshan-Song/KFV-FGO-Comparison"
+  paper: "https://doi.org/10.1038/s44459-026-00069-4"
+- id: brnf1ZA8D44
+  category: demos
+  title: "ORB-SLAM3 monocular-visual-odometry demo using HKU MARS-LVIG dataset"
+  duration: "6:14"
+  description: "A project demonstration of monocular visual odometry with ORB-SLAM3 on the HKU MARS-LVIG dataset."

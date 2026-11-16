@@ -1,0 +1,23 @@
+name: Validate website
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build with the GitHub Pages environment
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Check research pages and links
+        run: python3 .github/scripts/validate_site.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: website-preview
+          path: _site/
+          retention-days: 7

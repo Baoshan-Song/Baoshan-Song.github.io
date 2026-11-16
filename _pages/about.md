@@ -32,6 +32,14 @@ My research interests focus on three interconnected areas:
 ---
 
 
+## Videos & Tutorials
+
+Explore my **[5-Minute Tutorials](/videos/#tutorials)** on the Extended Kalman Filter, signed distance fields, and 3D Gaussian Splatting, alongside **[research talks](/videos/#talks)** and **[project demonstrations](/videos/#demos)**.
+
+**Recent talk:** [Towards Certifiable Metric State Estimation for Autonomous Robots](https://www.youtube.com/watch?v=fVrW5whgSvk) — IEEE CSS TCSP Rising Star Symposium, October 2026.
+
+---
+
 ## Selected Awards & Honors
 
 | Year | Award |
@@ -48,8 +56,8 @@ My research interests focus on three interconnected areas:
 
 | Date | News |
 |:-----|:-----|
-| **Oct 2026** | Invited talk at *IEEE CSS TCSP Rising Star Symposium* on certifiable state estimation [[Virtual Presentation](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] |
-| **Jun 17, 2026** | Paper accepted at *IEEE T-ITS*: "Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization" [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uqn8268AAAAJ&citation_for_view=Uqn8268AAAAJ:YOwf2qJgpHMC)]|
+| **Oct 2026** | Invited talk at *IEEE CSS TCSP Rising Star Symposium* on certifiable state estimation [[Video](https://www.youtube.com/watch?v=fVrW5whgSvk)] |
+| **Jun 17, 2026** | Paper accepted at *IEEE T-ITS*: "Online IMU-odometer Calibration using GNSS Measurements for Autonomous Ground Vehicle Localization" [[paper](https://doi.org/10.1109/TITS.2026.3706684)]|
 | **Jun 5, 2026** | Spotlight talk at *ICRA Robot Meets Ranging Workshop* [@Vienna, Austria] on "A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization" [[slide](../files/2026-song-icra-workshop-lidar-slam-slides.pdf)] |
 | **Jun 1, 2026** | Paper accepted at *Nature Portfolio journal Wireless Technology*: "Degeneration of Sliding-Window Factor Graph Optimization into Iterated Extended Kalman Filtering" [[paper](https://www.nature.com/articles/s44459-026-00069-4)]|
 | **Apr 29, 2026** | Paper accepted at *IEEE RA-L*: "Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality" [[paper](https://ieeexplore.ieee.org/abstract/document/11520682/)]|
@@ -66,7 +74,7 @@ My research interests focus on three interconnected areas:
 
 | Date | Talks |
 |:-----|:-----|
-| **Oct 2026** | *IEEE CSS TCSP Rising Star Symposium* [[Virtual Presentation](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)] |
+| **Oct 2026** | *IEEE CSS TCSP Rising Star Symposium* [[Video](https://www.youtube.com/watch?v=fVrW5whgSvk)] |
 | **2025** | *PolyU Workshop* [@Hong Kong SAR, China] [[slide](../files/2025-polyu.pdf)] |
 | **2025** | *McMaster University* [@Hamilton, Canada]  [[video](https://www.youtube.com/watch?v=YbkHmWe-0d0)] |
 
@@ -103,7 +111,7 @@ My research interests focus on three interconnected areas:
 
 ## Software & Open Source
 
-I actively develop open-source software related to robotics and navigation. Visit my **[GitHub profile](https://github.com/Baoshan-Song)** for latest projects and code repositories.
+Explore **[Open Source](/open-source/)** for the KFV–FGO Comparison toolbox, certifiable Doppler alignment and positioning code, and the FieldNav dataset. More projects are available on my **[GitHub profile](https://github.com/Baoshan-Song)**.
 
 ---
 

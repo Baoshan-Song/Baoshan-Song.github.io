@@ -1,0 +1,9 @@
+<article class="publication-card">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  {% if post.authors %}<p>{{ post.authors | escape }}</p>{% endif %}
+  <p><em>{{ post.venue }}</em> · {{ post.date | date: "%Y" }}{% if post.category == 'preprints' %} · Preprint{% endif %}</p>
+  {% if post.version_note %}<p class="resource-meta">{{ post.version_note }}</p>{% endif %}
+  {{ post.excerpt | markdownify }}
+  {% include publication-links.html paper=post %}
+  {% if post.citation %}<details><summary>Citation</summary><p>{{ post.citation }}</p></details>{% endif %}
+</article>

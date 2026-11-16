@@ -8,6 +8,7 @@ date: 2025-10-01
 venue: 'arXiv preprint arXiv:2510.00524'
 paperurl: 'https://arxiv.org/abs/2510.00524'
 citation: 'Song, B., Yan, P., Xia, X., Zhong, Y., Wen, W., & Hsu, L. Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion. arXiv preprint arXiv:2510.00524.'
+authors: "Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu"
 ---
 
 This paper addresses GNSS outlier detection in multi-sensor fusion systems using a two-stage approach.

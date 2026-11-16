@@ -1,0 +1,18 @@
+{% assign video = include.video %}
+<article class="resource-card video-card" id="video-{{ video.id }}">
+  <a class="video-preview" href="https://www.youtube.com/watch?v={{ video.id }}" data-video-id="{{ video.id }}" data-video-title="{{ video.title | escape }}" aria-label="Play {{ video.title | escape }}">
+    <img src="https://i.ytimg.com/vi/{{ video.id }}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy">
+    <span class="video-play" aria-hidden="true">▶</span>
+    <span class="video-duration">{{ video.duration }}</span>
+  </a>
+  <div class="resource-card-body">
+    <h3><a href="https://www.youtube.com/watch?v={{ video.id }}">{{ video.title }}</a></h3>
+    {% if video.context %}<p class="resource-meta">{{ video.context }}</p>{% endif %}
+    <p>{{ video.description }}</p>
+    <div class="resource-links">
+      <a href="https://www.youtube.com/watch?v={{ video.id }}">Watch on YouTube ↗</a>
+      {% if video.code %}<a href="{{ video.code }}">Code</a>{% endif %}
+      {% if video.paper %}<a href="{{ video.paper }}">Paper</a>{% endif %}
+    </div>
+  </div>
+</article>

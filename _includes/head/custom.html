@@ -1,6 +1,9 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+{% if page.research_resources or page.collection == 'publications' %}
+<link rel="stylesheet" href="{{ '/assets/css/research-pages.css' | relative_url }}"/>
+{% endif %}
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
