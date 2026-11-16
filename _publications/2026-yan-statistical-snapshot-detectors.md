@@ -12,4 +12,4 @@ excerpt: "A tutorial connecting classical GNSS/RAIM snapshot detectors through u
 codeurl: "https://github.com/JasonYanxx/nav-detector-review-replication"
 ---
 
-
+A tutorial connecting classical GNSS/RAIM snapshot detectors through unified statistical derivations and detector relationships. The accompanying repository provides replication scripts and processed GNSS geometry data.

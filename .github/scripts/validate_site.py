@@ -18,8 +18,8 @@ class Page(HTMLParser):
         if 'id' in attrs:
             self.ids.append(attrs['id'])
         self.classes.extend(attrs.get('class', '').split())
-        if tag == 'a':
-            self.links.append(attrs.get('href', ''))
+        if tag == 'a' and 'href' in attrs:
+            self.links.append(attrs['href'])
         if 'data-video-id' in attrs:
             self.video_ids.append(attrs['data-video-id'])
 
