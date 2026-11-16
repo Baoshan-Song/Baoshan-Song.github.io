@@ -3,8 +3,9 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import re
+import sys
 
-SITE = Path('_site')
+SITE = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('_site')
 
 
 class Page(HTMLParser):
@@ -27,7 +28,12 @@ class Page(HTMLParser):
 def destination(path):
     relative = unquote(path).lstrip('/')
     file = SITE / relative
-    return file / 'index.html' if file.is_dir() else file
+    if file.is_dir():
+        return file / 'index.html'
+    # GitHub Pages serves generated .html files through extensionless URLs.
+    if not file.suffix and file.with_suffix('.html').is_file():
+        return file.with_suffix('.html')
+    return file
 
 
 for route in ('videos', 'open-source', 'publications'):
